@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon style store for CLI using Node.js and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrystalEspaillat/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrystalEspaillat/Bamazon/issues"
+  },
+  "homepage": "https://github.com/CrystalEspaillat/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "dotenv": "^6.0.0",
+    "figlet": "^1.2.0",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
